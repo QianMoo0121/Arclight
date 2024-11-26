@@ -16,10 +16,10 @@ allprojects {
     }
 
     ext {
-        minecraftVersion = '1.21.1'
+        minecraftVersion = '1.21'
         supportedPlatforms = ['forge', 'neoforge', 'fabric']
         fabricLoaderVersion = '0.16.9'
-        fabricApiVersion = '0.109.0+1.21.1'
+        fabricApiVersion = '0.109.0+1.21'
         forgeVersion = '52.0.29'
         neoForgeVersion = '21.0.160'
         apiVersion = '1.7.3'
